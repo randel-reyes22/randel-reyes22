@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Randel Reyes</h1>
-<h3 align="center">A Bachelor of Science in Information Technology Graduate | Seeking Full-Time Software Engineer Job | Java, NodeJS, Flutter, C#, C++, SQL, PostgresSQL, Ruby On Rails, Protobuff, Stimulus | 2022 Graduation</h3>
+<h3 align="center">A Bachelor of Science in Information Technology Graduate | Seeking Full-Time Software Engineer Job | Java, NodeJS, Flutter, C#, C++, SQL, PostgresQL, Ruby On Rails, Protobuff, Stimulus | 2022 Graduation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randel-reyes22&label=Profile%20views&color=0e75b6&style=flat" alt="randel-reyes22" /> </p>
 
