@@ -11,11 +11,8 @@
 
 - 🤝 I’m looking for help with **How to dockerize and application?**
 
-- 💬 Ask me about **Flutter, Java, C#**
-
 - 📫 How to reach me **randelreyes818@gmail.com**
 
-- ⚡ Fun fact **I think I have a lot of humor because I received an award for the Comedian of the class.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
