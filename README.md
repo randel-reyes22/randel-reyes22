@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=randel-reyes22" alt="randel-reyes22" /></a> </p>
 
-- 🔭 I’m currently working on **Android Loan Management -- private repo**
+- 🔭 I’m currently a Ruby on Rails developer in Nueca Technologies Inc.
 
-- 🌱 I’m currently learning **Redis,React, and Docker**
+- 🔭 I’m currently working on **Loan recorder -- private repo**
+
+- 🌱 I’m currently learning **Rails, Ruby, Docker, etc.**
 
 - 🤝 I’m looking for help with **How to dockerize and application?**
 
