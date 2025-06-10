@@ -9,9 +9,7 @@
 
 - 🔭 I’m currently working on **Loan recorder -- private repo**
 
-- 🌱 I’m currently learning **Rails, Ruby, Docker, etc.**
-
-- 🤝 I’m looking for help with **How to dockerize and application?**
+- 🌱 I’m currently a **Ruby on Rails developer**
 
 - 📫 How to reach me **randelreyes818@gmail.com**
 
