@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently a Ruby on Rails developer in Nueca Technologies Inc.
 
-- 🔭 I’m currently working on **Loan recorder -- private repo**
-
-- 📫 How to reach me **randelreyes818@gmail.com**
+- 🔭 I’m currently working on a Loan Recorder app built under Ruby On Rails.
 
 
 <h3 align="left">Connect with me:</h3>
