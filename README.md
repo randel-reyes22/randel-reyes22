@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=randel-reyes22" alt="randel-reyes22" /></a> </p>
 
-- 🔭 I’m currently a Ruby on Rails developer in Nueca Technologies Inc.
+- 🔭 I’m currently a Ruby on Rails developer in Nueca Tindahang Tapat
 
 - 🔭 I’m currently working on a Loan Recorder app built under Ruby On Rails.
 
