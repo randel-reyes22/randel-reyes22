@@ -20,6 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=randel-reyes22&show_icons=true&locale=en&layout=compact" alt="randel-reyes22" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=randel-reyes22&show_icons=true&locale=en" alt="randel-reyes22" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=randel-reyes22&" alt="randel-reyes22" /></p>
