@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently a Ruby on Rails developer in G&A Partners
 
-- 🔭 I’m currently working on a Loan Recorder app built under Ruby On Rails.
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
