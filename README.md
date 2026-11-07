@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Randel Reyes</h1>
-<h3 align="center">A Bachelor of Science in Information Technology Graduate | Currently a Ruby on Rails Developer | PostgreSQL,SQL, Ruby On Rails, Protobuff, Stimulus, Java, Flutter | 2022 Graduate</h3>
+<h3 align="center">Currently a Ruby on Rails Developer | AI Assisted Development | Claude, PostgreSQL, SQL, Ruby On Rails, Protobuff, Stimulus | 2022 Graduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randel-reyes22&label=Profile%20views&color=0e75b6&style=flat" alt="randel-reyes22" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=randel-reyes22" alt="randel-reyes22" /></a> </p>
 
-- 🔭 I’m currently a Ruby on Rails developer in Nueca Tindahang Tapat
+- 🔭 I’m currently a Ruby on Rails developer in G&A Partners
 
 - 🔭 I’m currently working on a Loan Recorder app built under Ruby On Rails.
 
